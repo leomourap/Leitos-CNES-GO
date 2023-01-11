@@ -41,8 +41,9 @@ Portanto, vou utilizar os dados dos leitos do CNES desde janeiro de 2020 até no
 #### --------------------------------------------------------------------------------------------
 
 Então realizei o tratamento dos dados e a seleção das variáveis que iria utilizar nas análises:
-#### Ex:
-![image](https://user-images.githubusercontent.com/105673165/211732081-40fb6c37-679b-419c-a0f4-317de7fe3526.png)
+#### Ex: remoção de coluna vazia.
+![tratamentodados](https://user-images.githubusercontent.com/105673165/211733694-a6f52898-f70e-4672-b83e-7474d6235137.jpg)
+
 
 E com os dados prontos, parti para sua análise, direcionado a algumas questões:
 #### Como foi a evolução do número de leitos ao longo do período?; Em algum momento pôde ser observado um declínio na capacidade hospitalar instalada?;
